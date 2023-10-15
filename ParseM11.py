@@ -5,9 +5,9 @@ import re
 import time
 
 json_programm = {}
-for filename in os.listdir("dataset/М-11/"):
+for filename in os.listdir("М-11/"):
     errors = []
-    with open("dataset/М-11/" + filename, 'rb') as pdf_file:
+    with open("М-11/" + filename, 'rb') as pdf_file:
         pdf_open_reader = pd(pdf_file)  # Открываем PDF на чтение
         # Циклом обходим все страницы книги и выводим их содержание на печать
         parse_text = ""

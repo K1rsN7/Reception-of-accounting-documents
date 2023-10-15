@@ -7,10 +7,10 @@ import os
 
 json_programm = {}
 # Открываем файл конструктором With
-for filename in os.listdir("dataset/ФМУ-76/"):
+for filename in os.listdir("ФМУ-76/"):
     errors = []
     try:
-        with open("dataset/ФМУ-76/" + filename, 'rb') as pdf_file:
+        with open("ФМУ-76/" + filename, 'rb') as pdf_file:
             pdf_open_reader = pd(pdf_file)  # Открываем PDF на чтение
             # Циклом обходим все страницы книги и выводим их содержание на печать
             parse_text = ""
