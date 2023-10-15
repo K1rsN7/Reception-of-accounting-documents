@@ -283,3 +283,4 @@ for filename in os.listdir("dataset/ФМУ-76/"):
 FMU76_json = json.dumps(json_programm)
 with open("FMU76.json", "w") as my_file:
     my_file.write(FMU76_json)
+input()

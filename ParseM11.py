@@ -5,7 +5,6 @@ import re
 import time
 
 json_programm = {}
-# Открываем файл конструктором With
 for filename in os.listdir("dataset/М-11/"):
     errors = []
     with open("dataset/М-11/" + filename, 'rb') as pdf_file:
@@ -158,3 +157,4 @@ for filename in os.listdir("dataset/М-11/"):
 M_11_json = json.dumps(json_programm)
 with open("M-11.json", "w") as my_file:
     my_file.write(M_11_json)
+input()
