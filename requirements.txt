@@ -1,0 +1,9 @@
+Pygments==2.16.1
+matplotlib==3.7.3
+click==8.1.7
+pdfminer==20191125
+pandas==2.1.0
+pypdf==3.16.4
+numpy==1.26.0
+opencv-python==4.8.0.76
+pypdf2==2.12.1
