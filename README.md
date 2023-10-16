@@ -34,5 +34,9 @@
 <h1>Результаты работы программы</h1>
 </div> 
 <div>
-<img alt="GIF" src="demka.gif"/>
+  <img alt="GIF" src="demka.gif"/>
+</div>
+<div align='left'>
+  <h1>Итоги хакатона</h1>
+  <a href="https://github.com/K1rsN7/Reception-of-accounting-documents/blob/main/itog.png" target="_blank"> <img  src="./itog.png" /></a>
 </div>
