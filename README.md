@@ -1,4 +1,4 @@
-<h1 align="center">Reception of accounting documents</h1>
+<h1 align="center">Acceptance of documents</h1>
 <div align="center">
   <a href="https://github.com/K1rsN7/Reception-of-accounting-documents/issues">
 		<img src="https://img.shields.io/github/issues/K1rsN7/Reception-of-accounting-documents?color=4A73DF&labelColor=1C2325&style=for-the-badge">
