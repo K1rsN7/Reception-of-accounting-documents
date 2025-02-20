@@ -1,13 +1,14 @@
+<img src="./banner.png">
 <h1 align="center">Acceptance of documents</h1>
 <div align="center">
   <a href="https://github.com/K1rsN7/Reception-of-accounting-documents/issues">
-		<img src="https://img.shields.io/github/issues/K1rsN7/Reception-of-accounting-documents?color=4A73DF&labelColor=1C2325&style=for-the-badge">
+		<img src="https://img.shields.io/github/issues/K1rsN7/Reception-of-accounting-documents?color=63A2C0&labelColor=1C2325&style=for-the-badge">
 	</a>
 	<a href="https://github.com/K1rsN7/Reception-of-accounting-documents/stargazers">
-		<img src="https://img.shields.io/github/stars/K1rsN7/Reception-of-accounting-documents?color=4A73DF&labelColor=1C2325&style=for-the-badge">
+		<img src="https://img.shields.io/github/stars/K1rsN7/Reception-of-accounting-documents?color=63A2C0&labelColor=1C2325&style=for-the-badge">
 	</a>
 	<a href="./LICENSE">
-		<img src="https://img.shields.io/badge/Licence-CC%20BY--NC%204.0-4A73DF?style=for-the-badge&labelColor=1C2325" alt="Лицензия CC BY-NC 4.0">
+		<img src="https://img.shields.io/badge/Licence-CC%20BY--NC%204.0-63A2C0?style=for-the-badge&labelColor=1C2325" alt="Лицензия CC BY-NC 4.0">
 	</a>
 </div>
 <div align='left'>
@@ -52,3 +53,14 @@
   <h1>Итоги хакатона</h1>
   <a href="https://github.com/K1rsN7/Reception-of-accounting-documents/blob/main/itog.png" target="_blank"> <img  src="./itog.png" /></a>
 </div>
+<h2 align="center"> Star History</h2>
+<div align="center">
+<a href="https://star-history.com/#K1rsN7/Acceptance-of-documents&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=K1rsN7/Acceptance-of-documents&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=K1rsN7/Acceptance-of-documents&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=K1rsN7/SubManage&type=Date" />
+ </picture>
+</a>
+</div>
+
